@@ -1,6 +1,6 @@
-< Hello ! I'm a French beginner programmer. > <br>
+<h1>< Hello ! I'm a French beginner programmer. ></h1> <br>
 
-I want to be a French Translator for Games and stuff like this.
+  <h2>I want to be a French Translator for Games and stuff like this.</h3>
 
 ![Stats du Github de Pendejoo](https://github-readme-stats.vercel.app/api?username=howauu&theme=jolly&show_icons=true&locale=fr)
 
