@@ -1,4 +1,5 @@
-< Hello ! I'm a French beginner programmer. >
+< Hello ! I'm a French beginner programmer. > <br>
+
 I want to be a French Translator for Games and stuff like this.
 
 ![Stats du Github de Pendejoo](https://github-readme-stats.vercel.app/api?username=howauu&theme=jolly&show_icons=true&locale=fr)
