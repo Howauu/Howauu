@@ -1,4 +1,5 @@
-Bonjour je suis un nouveau développeur en apprentissage qui apprend le Batch et qui souhaite apprendre le C#/C++
+< Hello ! I'm a French beginner programmer. >
+I want to be a French Translator for Games and stuff like this.
 
 ![Stats du Github de Pendejoo](https://github-readme-stats.vercel.app/api?username=howauu&theme=jolly&show_icons=true&locale=fr)
 
