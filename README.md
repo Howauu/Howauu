@@ -1,4 +1,4 @@
-<h1>< Hello ! I'm a French beginner programmer. ></h1> <br>
+<h1>< French developper and translator. ></h1> <br>
 
   <h2>I want to be a French Translator for Games and stuff like this.</h3>
 
