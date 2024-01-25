@@ -1,6 +1,6 @@
 <h1>< French developper and translator. ></h1> <br>
 
-  <h2>I want to be a French Translator for Games and stuff like this.</h3>
+  <h2>Web Designer.</h3>
 
 ![Stats du Github de Pendejoo](https://github-readme-stats.vercel.app/api?username=alaskadiscord&theme=jolly&show_icons=true&locale=fr)
 
